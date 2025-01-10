@@ -5,7 +5,7 @@ description: TBSTCraft这个MC服务器的文档
 # ❤ 文档介绍
 
 {% hint style="info" %}
-全新的5.0版文档已经上线运营，[点击前往](https://wiki.tbstmc.xyz)！
+~~全新的5.0版文档已经上线运营~~，全新的6.0版文档已经上线运营，[点击前往](https://wiki.atforever.world)！
 {% endhint %}
 
 <figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption><p>TBSTMC 旗下创造服</p></figcaption></figure>
